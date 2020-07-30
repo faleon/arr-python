@@ -1,2 +1,2 @@
 # arr-python
-Python scripts developed by Antony Rivera
+Python scripts developed by Antony Rivera.
