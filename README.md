@@ -1,5 +1,5 @@
 # arr-python
-Python scripts developed by Antony Rivera.
+Python scripts developed by Antony Rivera
 
 ## combine_pdf.py
 ### Prereqs: PyPDF2
